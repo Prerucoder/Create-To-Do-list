@@ -1,6 +1,4 @@
 #To-Do List Web Application
-Description
-A simple, interactive To-Do List web application built with HTML, CSS, and JavaScript. Users can add tasks, mark them as completed, and remove them from the list.
 
 #Features
 Add Task: Add new tasks to your list.
